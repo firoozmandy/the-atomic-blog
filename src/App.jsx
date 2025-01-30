@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { ContextBlog, usePost } from "./Context/ContextBlog";
+import { ContextBlog } from "./Context/ContextBlog";
 import { Footer } from "./Components/Footer";
 import { Header } from "./Components/Heder";
 import { Main } from "./Components/Main";
